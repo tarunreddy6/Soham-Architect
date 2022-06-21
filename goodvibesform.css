@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: #82E0AA;
+}
+
+
+
+.div-style {
+  margin: auto;
+  width: 800px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  padding: 20px 10px 10px 10px;
+}
+
+
+.button {
+  
+  background-color: #6ba2ce;
+  color: white;
+  border: 0px solid;
+  border-radius: 2px;
+  height: 30px;
+  width: 60px;
+  margin: 10px;
+}
+
